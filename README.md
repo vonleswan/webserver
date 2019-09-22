@@ -9,6 +9,7 @@ webserver is based off of Ruslan Spivak's Blog: [Let's Build A Webserver](https:
 ## Installation
 
 Clone this repository to your local machine
+
 Open a terminal and navigate to webserver's installation directory
 ```bash
 cd *webserver_installation_directory*
