@@ -35,7 +35,7 @@ pipenv run python webserver.py wsgiapp:app
 ```
 Once the server is running open a browser and navigate to [http://localhost:8888/index](http://localhost:8888/index)
 
-You should see something like this
+If everything went according to plan you should see something like this
 
 ![Image](https://github.com/vonleswan/webserver/blob/master/index_example.png?raw=true)
 
