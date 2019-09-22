@@ -33,7 +33,10 @@ If you want to get your hands dirty; you can alternatively run webserver like so
 ```bash
 pipenv run python webserver.py wsgiapp:app 
 ```
-Once the server is running open a browser and navigate to [http://localhost:8888/index](http://localhost:8888/index) at the port the webserver is running on to check to see if it works.
+Once the server is running open a browser and navigate to [http://localhost:8888/index](http://localhost:8888/index)
+
+You should see something like this
+![Image](https://github.com/vonleswan/webserver/blob/master/index_example.png?raw=true)
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
